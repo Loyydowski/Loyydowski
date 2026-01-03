@@ -26,4 +26,4 @@ I am an 18-year-old developer from **Poland** with a passion for building mobile
 ---
 
 ### 📫 Let's Connect
-[LINK DO LINKEDIN] • [TWÓJ EMAIL]
+[LINK DO LINKEDIN] • [barto.kub@gmail.com]
