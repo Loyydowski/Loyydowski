@@ -25,10 +25,5 @@ I am an 18-year-old developer from **Poland** with a passion for building mobile
 
 ---
 
-### 📈 GitHub Stats
-
-![Bartosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWÓJ_NICK_NA_GITHUB&show_icons=true&theme=tokyonight)
-<!-- Zmień "TWÓJ_NICK_NA_GITHUB" w linku powyżej na swój prawdziwy login -->
-
 ### 📫 Let's Connect
 [LINK DO LINKEDIN] • [TWÓJ EMAIL]
