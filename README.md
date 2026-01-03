@@ -4,11 +4,11 @@
 
 I am an 18-year-old developer from **Poland** with a passion for building mobile and web applications. I hold a **Technician Programmer** degree and I am continuously expanding my skillset.
 
-- 🎓 **Education:** Currently studying at **[INSERT UNIVERSITY/SCHOOL NAME]**.
+- 🎓 **Education:** Currently studying at **[???]**.
 - 🌍 **Location:** Poland.
 - 🗣️ **Languages:**
-  - 🇬🇧 English: **[INSERT LEVEL, e.g., B2/C1]**
-  - 🇩🇪 German: **[INSERT LEVEL, e.g., A2/B1]**
+  - 🇬🇧 English: **[???]**
+  - 🇩🇪 German: **[???]**
 
 ---
 
