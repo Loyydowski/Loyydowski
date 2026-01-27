@@ -12,6 +12,12 @@ I am an 18-year-old developer from **Poland** with a passion for building mobile
 
 ---
 
+### 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/TWOJA_NAZWA?theme=dark&font=Segoe%20UI&ext=heatmap)
+
+---
+
 ### 🛠️ Tech Stack
 
 **Frontend & Web Technologies**
