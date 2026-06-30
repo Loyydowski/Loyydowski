@@ -8,7 +8,7 @@ I am an 18-year-old developer from **Poland** with a passion for building mobile
 - 🌍 **Location:** Poland
 - 🗣️ **Languages:**
   - 🇬🇧 English: **B2 (Upper-Intermediate) – Preparing for Advanced Matura**
-  - 🇩🇪 German: **A1 / A2 (Beginner)**
+  - 🇩🇪 German: **A1**
  ### 🛠️ Tech Stack
 
 **Frontend & Web Technologies**
