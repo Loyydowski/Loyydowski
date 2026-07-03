@@ -73,3 +73,5 @@ logowanie oraz operacje CRUD na kontach użytkowników.
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barto.kub@gmail.com)
 
 </div>
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Loyydowski)](https://github.com/stats-organization/github-stats-extended)
