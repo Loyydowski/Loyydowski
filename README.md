@@ -50,26 +50,6 @@ Aplikacja webowa do zarządzania użytkownikami zbudowana w **Angularze** – ob
 
 **Tech:** Angular · TypeScript · SCSS
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loyydowski&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Loyydowski&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
-### 📈 LeetCode Stats
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/user2151LB?theme=dark&font=Segoe%20UI)
-
-</div>
-
----
 
 ### 📫 Let's Connect
 
