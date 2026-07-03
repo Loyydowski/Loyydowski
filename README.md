@@ -17,7 +17,7 @@ Currently completing my **Technician Programmer** degree and constantly expandin
 - 🗣️ **Languages:**
   - 🇬🇧 English: **B2 (Upper-Intermediate)** – preparing for Advanced Matura
   - 🇩🇪 German: **A1**
-- 🚀 **Currently learning:** *(uzupełnij, np. Angular advanced patterns / Flutter state management)*
+- 🚀 **Currently learning:** *API/Postman*
 
 ---
 
@@ -41,15 +41,29 @@ Currently completing my **Technician Programmer** degree and constantly expandin
 ### 🚀 Featured Projects
 
 #### 🧩 [Test Solver](https://github.com/Loyydowski/Test-Solver-Open-Source)
-Rozszerzenie do przeglądarki (Chrome Extension, Manifest V3) analizujące i przetwarzające treść stron w czasie rzeczywistym przy użyciu **content scripts**, **MutationObserver** oraz integracji z **AI API**. Projekt eksploracyjny skupiony na automatyzacji DOM i pracy z dynamicznie zmieniającą się treścią strony.
 
-**Tech:** JavaScript · Chrome Extension API · AI API Integration
+Rozszerzenie do przeglądarki (Chrome Extension, Manifest V3) analizujące i przetwarzające treść stron
+w czasie rzeczywistym przy użyciu **content scripts**, **MutationObserver** oraz integracji z **AI API**.
+Projekt eksploracyjny skupiony na automatyzacji DOM i pracy z dynamicznie zmieniającą się treścią strony.
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange?style=flat-square&logo=googlechrome&logoColor=white)
+![AI](https://img.shields.io/badge/AI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
 
 #### 👤 [User Management System](https://github.com/Loyydowski/User-Management-System)
-Aplikacja webowa do zarządzania użytkownikami zbudowana w **Angularze** – obejmuje rejestrację, logowanie oraz operacje CRUD na kontach użytkowników. *(dopracujemy opis, gdy uzupełnisz szczegóły funkcjonalności)*
 
-**Tech:** Angular · TypeScript · SCSS
+Aplikacja webowa do zarządzania użytkownikami zbudowana w **Angularze** – obejmuje rejestrację,
+logowanie oraz operacje CRUD na kontach użytkowników.
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+---
 
 ### 📫 Let's Connect
 
