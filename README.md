@@ -63,6 +63,11 @@ logowanie oraz operacje CRUD na kontach użytkowników.
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
+<div align="center">
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
+
+</div>
 ---
 
 ### 📫 Let's Connect
@@ -73,8 +78,6 @@ logowanie oraz operacje CRUD na kontach użytkowników.
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barto.kub@gmail.com)
 
 </div>
-<div align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
-  
-</div>
+
+
 
