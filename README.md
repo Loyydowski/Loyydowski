@@ -74,7 +74,7 @@ logowanie oraz operacje CRUD na kontach użytkowników.
 
 </div>
 <div align="center">
-[[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Loyydowski)](https://github.com/stats-organization/github-stats-extended)](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
   
 </div>
 
