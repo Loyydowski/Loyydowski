@@ -72,10 +72,18 @@ logowanie oraz operacje CRUD na kontach użytkowników.
 
 
 <div align="center">
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TUTAJ_WKLEJ_LINK_DO_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barto.kub@gmail.com)
 
+<h3>📫 Let's Connect</h3>
+
+<a href="TUTAJ_WKLEJ_LINK_DO_LINKEDIN">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:barto.kub@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 </div>
 
 
