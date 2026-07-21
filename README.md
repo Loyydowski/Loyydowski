@@ -68,7 +68,6 @@ logowanie oraz operacje CRUD na kontach użytkowników.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=Loyydowski&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 </div>
----
 
 ### 📫 Let's Connect
 
